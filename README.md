@@ -1,7 +1,7 @@
 ======= OCR Pump & Dump Script ======== 
 
 Contributor: 
-Soner Abay Contact: sonerabay@ikudeeplearning.com
+Soner Abay Contact: sonerabay@ikudeeplearning.com  
 Ozan Yurtsever Contact: ozanyurtsever95@gmail.com
 
 =====Description======
