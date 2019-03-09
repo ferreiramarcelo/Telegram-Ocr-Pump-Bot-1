@@ -1,8 +1,11 @@
 # Telegram OCR based Pump & Dump Script
 
 ## Contributors:   
-Soner Abay  Contact: sonerabay@ikudeeplearning.com      
-Ozan Yurtsever  Contact: ozanyurtsever95@gmail.com
+Soner Abay  
+Contact: sonerabay@ikudeeplearning.com  
+
+Ozan Yurtsever  
+Contact: ozanyurtsever95@gmail.com
 
 ## Description
 
