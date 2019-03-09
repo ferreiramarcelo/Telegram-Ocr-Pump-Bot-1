@@ -20,6 +20,6 @@ This script was designed to process images from telegram groups and automaticall
 
 After these steps, script will be waiting for an image from your telegram pump group and as soon there is an image, script will analyize the image, catch the coin name, place a buy order then a sell order with pre-adjusted profit.
 
-###Additionally
+### Additionally
 
 Run update.py at least once a week to update minimum quantitiy and minimum price
