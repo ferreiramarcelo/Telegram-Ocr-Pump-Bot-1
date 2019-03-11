@@ -13,7 +13,9 @@ This script was designed to process images from telegram groups and automaticall
 
 ## Prerequrities
 
-*Google Tesseract OCR *telathon *python-binance API
+*Google Tesseract OCR  
+*telathon  
+*python-binance API
 
 ## How to Use
 
